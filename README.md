@@ -1,2 +1,2 @@
 # circleci-intro
-Getting to explore with CircleCi as a CI/CD tool
+Getting to explore CircleCi as a CI/CD tool
